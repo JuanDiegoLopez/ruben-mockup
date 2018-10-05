@@ -1,4 +1,4 @@
-# makeup-ruben
+# Ruben mockup
 
 > A Vue.js project
 
